@@ -1,0 +1,28 @@
+/* add your CSS here */
+div {
+  font: sans-serif;
+  border: 1px solid black;
+  max-width: 300px;
+  padding: 25px;
+  border-radius: 10px;
+  background-color: green;
+}
+
+.photo {
+  border-radius: 10px;
+  width: 300px
+}
+
+.fun-fact{
+  font-style: italic;
+}
+
+.fact-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+span {
+  font-weight: bold;
+}
